@@ -28,9 +28,9 @@ You can check the layout by clicking in the link below:
 <br>
 
 
-## :globe_with_meridians: Deploy
+## :globe_with_meridians: GitHub pages
 
-Deployed using Versel. Check <a href="https://react-travel-card.vercel.app/">here</a>.
+Check the page <a href="https://beangzz.github.io/React-Travel-Card/">here</a>.
 
 
 ---
