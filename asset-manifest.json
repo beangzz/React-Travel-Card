@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Travel-Card/static/css/main.89386687.css",
+    "main.js": "/React-Travel-Card/static/js/main.356d90c3.js",
+    "index.html": "/React-Travel-Card/index.html",
+    "main.89386687.css.map": "/React-Travel-Card/static/css/main.89386687.css.map",
+    "main.356d90c3.js.map": "/React-Travel-Card/static/js/main.356d90c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89386687.css",
+    "static/js/main.356d90c3.js"
+  ]
+}
